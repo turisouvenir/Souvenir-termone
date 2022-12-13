@@ -2,6 +2,13 @@
     color: var(--theme-color-dark-20);
     text-transform: uppercase;
   }
+
+  .calculator{
+    margin: 5em;
+    height: 50vh;
+    border-radius: 10px;
+    padding: 5em 2em;
+  }
   
   .calculator input {
     height: 2.5rem;
